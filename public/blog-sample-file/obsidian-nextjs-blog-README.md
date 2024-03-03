@@ -27,7 +27,7 @@ thumbnail: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2
 
 - Next.js [App Router](https://nextjs.org/docs/app)
 - [tailwindCSS](https://tailwindcss.com/)
-- [Octokit](https://github.com/octokit/octokit.js/#readme)(for Git REST API)
+- [Octokit](https://github.com/octokit/octokit.js/#readme)(for Github REST API)
 - [Obsidian Git](https://github.com/denolehov/obsidian-git)(for Obsidian Vault)
 - [react-markdown](https://www.npmjs.com/package/react-markdown?activeTab=readme)
 - [gray-matter](https://www.npmjs.com/package/gray-matter)
@@ -38,8 +38,8 @@ You can deploy this template to Vercel
 
 Note that you'll need to:
 
-- Set up Obsidian Git
-- Set up Git RESTAPI
+- Set up Obsidian Vault with [Obsidian Git](https://github.com/denolehov/obsidian-git)
+- Set up Github RESTAPI
 
 ## Authors
 

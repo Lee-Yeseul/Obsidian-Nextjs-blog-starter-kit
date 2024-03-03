@@ -13,4 +13,5 @@ export const MAIL_ADDRESS = "";
 export const GITHUB_LINK = "";
 export const BLOG_NAME = "Obsidian + Next.js Blog";
 export const BLOG_DESCRIPTION = "Blog by obsidian + Next.js";
-export const BLOG_PATH = "/obsidian-vault(sample)/blog";
+export const BLOG_PATH =
+  process.env.NEXT_PUBLIC_BLOG_PATH ?? "public/obsidian-vault(sample)/blog";
