@@ -1,6 +1,6 @@
 {
   "name": "create-obsidian-nextjs-blog",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "scripts": {
     "dev": "next dev",
