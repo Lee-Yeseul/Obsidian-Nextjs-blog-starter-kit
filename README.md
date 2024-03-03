@@ -1,15 +1,12 @@
 # Obsidian + Git + Nextjs Blog Starter kit
 
-<p align="center">
-  Generate Blog by Obsidian, Git REST API, Next.js.
-</p>
+Generate Blog by Obsidian, Git REST API, Next.js.
 
-<p align="center">
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
-  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
-  <a href="#authors"><strong>Authors</strong></a> ·
-</p>
-<br/>
+## Fast Start
+
+```bash
+npx create-obsidian-nextjs-blog
+```
 
 ## Tech Stack
 
@@ -65,12 +62,6 @@ Note that you'll need to:
       After downloaded the project, copy the <code>env.sample</code> file and fill it in.
     </details>
 <br />
-
-### Fast Start
-
-```bash
-npx create-obsidian-nextjs-blog
-```
 
 ## Authors
 
