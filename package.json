@@ -1,12 +1,15 @@
 {
-  "name": "my-app",
+  "name": "create-obsidian-nextjs-blog",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "bin": {
+    "create-obsidian-nextjs-blog": "bin/generate-app.js"
   },
   "dependencies": {
     "react": "^18",
