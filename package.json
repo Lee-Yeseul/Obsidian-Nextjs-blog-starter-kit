@@ -11,6 +11,10 @@
   "bin": {
     "create-obsidian-nextjs-blog": "bin/generate-app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lee-Yeseul/Obsidian-Nextjs-blog-starter-kit"
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
