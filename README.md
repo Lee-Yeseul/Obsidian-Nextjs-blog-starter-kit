@@ -66,6 +66,9 @@ Note that you'll need to:
     </details>
 <br />
 
+- Deploy your own by vercel
+  - blog example : https://yeseul-blog.vercel.app/
+
 ### Fast Start
 
 ```bash
